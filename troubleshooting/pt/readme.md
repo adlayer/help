@@ -1,5 +1,5 @@
 # Trobleshoting
 > Um checklist para te ajudar a solucionar problemas
 
-* [Integração](/integration.md)
+* [Integração](integration.md)
 * Gerenciamento
