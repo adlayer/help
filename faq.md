@@ -83,12 +83,12 @@ O Adlayer possui alguns serviços que habilitam acesso a "dados públicos de sua
 
 * <strong id="20">Adlayer suporta calhau ?</strong>  
 Estamos buscando idéias inovadoras que não afete a experiência do usário de modo negativo na implementação de peças padronizadas de um espaço, vc tem alguma sugestão ?
-* porque o Adlayer tem controle de domíos por sites ?
+* Porque o Adlayer tem controle de domíos por sites ?
 * Quais as vantagens do adlayer sobre outros adservers ?
 * Adlayer compete com o google adsense ?
-* O que acontece se eu atrazar o pagamento da mensalidade do adlayer ?
-* Voces tem algum plano free ?
-* Onde as peças do adlayer ficam Armazenadas ?
+* O que acontece se eu atrazar o pagamento da mensalidade do Adlayer ?
+* Vocês tem algum plano free ?
+* Onde as peças do Adlayer ficam Armazenadas ?
 * Quem está por traz do adlayer ?
 * Como vincular uma campanha em vários sites de minha conta ?
-* Como trabalhar com in house ads ?
+* Como trabalhar com in-house ads ?
