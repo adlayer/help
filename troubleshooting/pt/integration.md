@@ -1,5 +1,6 @@
-
 # Integração
+
+> Um checklist para entender porque sua integração não está funcionando
 
 ## Página
 * O código da página deve ser inserido no html
