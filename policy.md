@@ -1,0 +1,8 @@
+# Política de privacidade
+
+Nossa política de segurança requer que todos os usuários do Adlayer utilizem uma senha segura que é armazenada em nossas bases de dados usando algorítmos uni-direcionais de criptografia.
+Nossos serviços também tem grande respeito pela privacidade de todos impactados pela nossa tecnologia, o que significa que não transitamos dados pessoais entre nossos serviços nem salvamos nenhum tipo de dado no dispositivo do usuário.
+Nosso sistema de coleta de relatório, agrega apenas dados públicos como ip da rede externa, o evento efetuado pelo usuário (clicks e impressãoes), user agent e horário dos eventos. 
+Para manter a anonimosidade dos usuários e visitantes nem acessamos nem catalogamos dados como identidade do utilizador, histórico de navegação, preferências, configurações de outros sites ou qualquer dado que cause uma exposição clara da identidade do utilizador.
+As campanhas publicitárias também podem ser configuradas para ficar inativas, o que impede que qualquer internauta descubra a existência da campanha antes de sua veiculação.
+O Adlayer possui alguns serviços que habilitam acesso a "dados públicos de sua conta", nesta categoría incluimos apenas dados que estão autorizados a aparecer pra qualquer usuário, como campanhas ativas, lista de espaços publicitários de uma página e nome da página atual; mesmo considerando este grupo como dados públicos, tais só podem ser consultados através de chaves fornecidas pelo adlayer vide adlayer javascript sdk e estão configuradas a fornecelas apenas quando requisitadas de domínios previamente cadastrados.
