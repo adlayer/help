@@ -1,11 +1,8 @@
 # Help & support
-* [Faq](faq.md)
+* [Faq](faq)
 * Getting start
 * [Manuals](manuals)
 * Integration
-* [Troubleshooting](troubleshooting.md)
+* [Troubleshooting](troubleshooting)
 * Api docs
-* [Contact email support](mailto:contato@adlayer.org)
-
-# Contribute
-git clone --rescursive git@github.com:adlayer/help.git
+* [Suporte via e-mail support](mailto:contato@adlayer.org)
