@@ -4,5 +4,5 @@
 * [Manuais](manuals)
 * [Integração](integration)
 * [Troubleshooting](troubleshooting.md)
-* Api docs **(em breve)**
+* [Documentação API] (https://github.com/adlayer/api-docs)
 * [E-mail para dúvidas](mailto:contato@adlayer.org)
